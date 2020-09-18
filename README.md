@@ -24,7 +24,7 @@
 There are 5 types of files in the repository:
  - Fruit_checked.ipynb is the full version of the code used for this analysis
  - readme.md explains the repository
- - figure directory containes all the figure produced in the analysis
+ - Figure directory containes all the figure produced in the analysis
  - Fruits-360.zip is the dataset used in the project
  - Fruit_model_weight.h5 is the developed model
 
