@@ -3,8 +3,8 @@
 ## Data
 
 **Dataset:** 
- - The dataset used in the project is named [Fruits-360](https://github.com/Horea94/Fruit-Images-Dataset) which is about 405 MB.
- - The dataset is downloaed from [Fruit-Images-Dataset](https://github.com/Horea94/Fruit-Images-Dataset) [Accessed:9, August, 2019].
+ - The dataset used in the project is named [Fruits-360](https://github.com/khaledhasanzami/Fruit-Recognition-with-CNN/blob/master/fruits-360.rar) which is about 405 MB.
+ - The dataset is downloaed from [Fruit-Images-Dataset](https://github.com/Horea94/Fruit-Images-Dataset) [Accessed: 9 August, 2019].
 
 **Dataset properties:** 
  - Total number of images: 55,199.
